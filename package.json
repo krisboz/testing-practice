@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisboz/testing-practice.git"
+  },
+  "author": "Kristijan_Bozinovic <kristijan.bozinovic1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisboz/testing-practice/issues"
+  },
+  "homepage": "https://github.com/krisboz/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.4.0"
+  }
+}
